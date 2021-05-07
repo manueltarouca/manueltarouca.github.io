@@ -8,6 +8,6 @@ I like to toy and develop with state of the art technologies.
 
 ## Contact
 
-- **Email**: [manuel.tarouca+git@pm.me](manuel.tarouca+git@pm.me)
+- **Email**: [manuel.tarouca+git@pm.me](mailto:manuel.tarouca+git@pm.me)
 
 - **Phone**: [+351 933818743](+351933818743)
