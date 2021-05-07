@@ -32,4 +32,4 @@ I like to toy and develop with state of the art technologies.
 
 - **Email**: [manuel.tarouca+git@pm.me](mailto:manuel.tarouca+git@pm.me)
 
-- **Phone**: [+351 933818743](+351933818743)
+- **Phone**: +351 933818743
