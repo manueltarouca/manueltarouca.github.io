@@ -1,10 +1,18 @@
-## Welcome to my blog
+# Welcome to my blog
 
 Hello, my name is Manuel Augusto Tarouca Martins, I'm 23 years old.
 
 My current areas of interest in the IT sector are cybersecurity, open source software development, infrastructure automation and network management.
 
 I like to toy and develop with state of the art technologies.
+
+## Projects I'm working on:
+
+- Master's *thesis* on *Infrastructure as Code*: Automating the provisioning and configuration of Infrastructure and Services in Higher Education
+
+- Ansible roles for personal configuration of newly installed **LINUX** enviroments
+
+- ...
 
 ## Contact
 
