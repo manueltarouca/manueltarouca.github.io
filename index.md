@@ -16,6 +16,10 @@ I like to toy and develop with state of the art technologies.
 
 - dotfiles Collection
 
+- Many Angular projects
+
+- A nodeJS reddit bot, written in Typescript, to create a mirror of an heavly censored subreddit
+
 - ...
 
 ## Projects I've finished
