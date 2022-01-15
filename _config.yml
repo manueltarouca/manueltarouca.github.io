@@ -1,21 +1,21 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 relative_permalinks: true
 
 # Setup
-title:            'mt's blog'
-tagline:          'mt's blog'
-description:      'random ideas'
-url:              https://matm.xyz
-baseurl:          /
+title: mt's blog
+tagline: mt's blog
+description: random ideas
+url: https://matm.xyz
+baseurl: /
 
 author:
-  name:           'Manuel Tarouca Martins'
+  name: "Manuel Tarouca Martins"
 
-paginate:         5
+paginate: 5
 
 theme: jekyll-theme-minimal
