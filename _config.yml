@@ -1,4 +1,21 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-title: mt's blog
-description: random ideas
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'mt's blog'
+tagline:          'mt's blog'
+description:      'random ideas'
+url:              https://matm.xyz
+baseurl:          /
+
+author:
+  name:           'Manuel Tarouca Martins'
+
+paginate:         5
+
+theme: jekyll-theme-minimal
