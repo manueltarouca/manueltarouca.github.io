@@ -12,6 +12,9 @@ description: random ideas
 url: https://matm.xyz
 baseurl: /
 
+version: '2.0'
+repo: https://github.com/manueltarouca
+
 author:
   name: "Manuel Tarouca Martins"
 
